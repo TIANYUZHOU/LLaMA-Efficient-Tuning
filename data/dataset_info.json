@@ -1,4 +1,16 @@
 {
+  "instruction_data_train": {
+    "file_name": "instruction_data_train.json",
+    "file_sha1": "04677e75a3f1e9cdc62aa8ae6612799c04afa5cf"
+  },
+  "instruction_data_valid": {
+    "file_name": "instruction_data_valid.json",
+    "file_sha1": "c3f804b99ba117e298e826cdc43526ac8a3aa845"
+  },
+  "instruction_data": {
+    "file_name": "instruction_data.json",
+    "file_sha1": "293ddc3a48977a922e3eaa221d94fba0677248c7"
+  },
   "alpaca_en": {
     "file_name": "alpaca_data_en_52k.json",
     "file_sha1": "607f94a7f581341e59685aef32f531095232cf23"
