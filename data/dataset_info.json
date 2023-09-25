@@ -1,11 +1,11 @@
 {
-  "instruction_data_train": {
-    "file_name": "instruction_data_train.json",
-    "file_sha1": "04677e75a3f1e9cdc62aa8ae6612799c04afa5cf"
+  "instruction_data_train_random": {
+    "file_name": "instruction_data_train_random.json",
+    "file_sha1": "f9d98010b7d82fdd40f2ba569efc71682efd3ce1"
   },
-  "instruction_data_valid": {
-    "file_name": "instruction_data_valid.json",
-    "file_sha1": "c3f804b99ba117e298e826cdc43526ac8a3aa845"
+  "instruction_data_valid_random": {
+    "file_name": "instruction_data_valid_random.json",
+    "file_sha1": "7a518a47c2d3c4b49033ee3607c030a27b02b6a8"
   },
   "instruction_data": {
     "file_name": "instruction_data.json",
